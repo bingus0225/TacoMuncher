@@ -22,6 +22,10 @@ header h1{
     color: silver;
 }
 
+header h2{
+    color: blueviolet;
+}
+
 header img{
     border-radius: 150px;
     border: 12px solid gray;
