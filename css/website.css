@@ -10,7 +10,7 @@ body{
 header{
     background-color: midnightblue;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 15px;
     padding-bottom: 1px;
 }
 
@@ -20,19 +20,23 @@ h1, h2{
 
 header h1{
     color: silver;
+    font-size: 38px;
 }
 
 header h2{
     color: silver;
+    font-size: 28px;
 }
 
 header h3{
     color: firebrick;
+    font-size: 19px;
 }
 
 header img{
     border-radius: 150px;
-    border: 12px solid gray;
+    border: 7px solid gray;
+    max-width: 15%;
 }
 
 main{
