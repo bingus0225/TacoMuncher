@@ -36,12 +36,7 @@ header h3{
 header img{
     border-radius: 150px;
     border: 7px solid gray;
-    max-width: 15%;
-}
-
-body img{
-    border: 7px solid gray;
-    max-width: 15%;
+    max-width: 21%;
 }
 
 main{
