@@ -161,3 +161,13 @@ ul li a {
 ul li a:hover {
     color: maroon;
 }
+
+body p{
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+li{
+    padding-left: 45px;
+    padding-right: 45px;
+}
